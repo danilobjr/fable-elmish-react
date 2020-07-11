@@ -1,6 +1,6 @@
-# Fable Minimal App
+# fable-elmish-react
 
-This is a small Fable app project so you can easily get started and add your own code easily in it.
+Just a minimal app written F#, Fable, Elmish and React
 
 ## Requirements
 
@@ -33,3 +33,4 @@ The sample only contains two F# files: the project (.fsproj) and a source file (
 ### Web assets
 
 The `index.html` file and other assets like an icon can be found in the `public` folder.
+
