@@ -1,6 +1,6 @@
 # fable-elmish-react
 
-Just a minimal app written F#, Fable, Elmish and React
+Just a minimal app written F#, Fable, Elmish and React built on Linux.
 
 ## Requirements
 
